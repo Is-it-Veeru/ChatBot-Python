@@ -15,4 +15,12 @@ Commands for installing necessary Python packages:
     import nltk
     nltk.download('punkt')
 
+Run the Python script on your local machine
+    Access the chatbot Through the Web Browser
+        http://localhost:5000
+
+*** Note:
+    Web interface
+    Create a folder called templates in the same directory as your Python script. Inside this folder, create a file called index.html ***
+
     
