@@ -10,4 +10,9 @@ Components:
 Commands for installing necessary Python packages:
     pip install Flask  -------  Flask for the web application.
     pip install nltk   -------  NLTK for natural language processing.
+
+    #Run the following commands to download the "punkt" resource
+    import nltk
+    nltk.download('punkt')
+
     
